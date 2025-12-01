@@ -2,4 +2,4 @@ Monday
 tuesday
 wednesday
 thursday
-friday sunday saturday
+friday
